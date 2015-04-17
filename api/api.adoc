@@ -106,6 +106,9 @@ include::export-import/endpoints.adoc[]
 === Webhooks
 include::webhooks/endpoints.adoc[]
 
+=== Locales
+include::locales/endpoints.adoc[]
+
 
 [[auth]]
 == Auth
@@ -234,6 +237,10 @@ include::export-import/summary.adoc[]
 [[webhooks]]
 == Webhooks
 include::webhooks/summary.adoc[]
+
+[[locales]]
+== Locales
+include::locales/summary.adoc[]
 
 
 == Objects Summary
@@ -417,6 +424,11 @@ include::webhooks/detail-response.adoc[]
 [[object-webhook-log-detail]]
 === Webhook log
 include::webhooks/log-detail-response.adoc[]
+
+[[object-locale-detail]]
+=== Locale
+include::locales/detail-response.adoc[]
+
 
 == Contrib plugins
 
